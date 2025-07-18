@@ -1,0 +1,8 @@
+E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\deps\libmemoffset-7d33702270b2c7c0.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memoffset-0.8.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memoffset-0.8.0\src\raw_field.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memoffset-0.8.0\src\offset_of.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memoffset-0.8.0\src\span_of.rs
+
+E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\deps\memoffset-7d33702270b2c7c0.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memoffset-0.8.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memoffset-0.8.0\src\raw_field.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memoffset-0.8.0\src\offset_of.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memoffset-0.8.0\src\span_of.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memoffset-0.8.0\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memoffset-0.8.0\src\raw_field.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memoffset-0.8.0\src\offset_of.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\memoffset-0.8.0\src\span_of.rs:

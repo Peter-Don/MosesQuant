@@ -1,0 +1,11 @@
+E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\deps\liblmdb-7f935e017f1c8dd5.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\flags.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\cursor.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\database.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\environment.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\transaction.rs
+
+E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\deps\lmdb-7f935e017f1c8dd5.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\flags.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\cursor.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\database.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\environment.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\transaction.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\flags.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\cursor.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\database.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\environment.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\error.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lmdb-0.8.0\src\transaction.rs:

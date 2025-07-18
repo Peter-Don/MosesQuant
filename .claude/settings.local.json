@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(find:*)",
+      "Bash(rm:*)",
+      "Bash(cargo check:*)",
+      "Bash(cargo test)",
+      "Bash(cargo test:*)",
+      "Bash(cargo clippy:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(cd \"E:\\code\\QuantTrade\\czsc_enhanced\\czsc_core\")",
+      "Bash(RUST_BACKTRACE=1 cargo test test_simple_risk_manager -- --nocapture)",
+      "Bash(git remote:*)",
+      "Bash(RUST_BACKTRACE=1 cargo test indicators::tests::test_sma_calculation)",
+      "Bash(git config:*)"
+    ],
+    "deny": []
+  }
+}

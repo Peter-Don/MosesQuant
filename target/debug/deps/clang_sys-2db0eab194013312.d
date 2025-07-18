@@ -1,0 +1,14 @@
+E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\deps\libclang_sys-2db0eab194013312.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clang-sys-1.8.1\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clang-sys-1.8.1\src\support.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clang-sys-1.8.1\src\link.rs E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\build\clang-sys-3c8c7a3f17f3dfe3\out/macros.rs E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\build\clang-sys-3c8c7a3f17f3dfe3\out/common.rs E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\build\clang-sys-3c8c7a3f17f3dfe3\out/dynamic.rs
+
+E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\deps\libclang_sys-2db0eab194013312.rlib: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clang-sys-1.8.1\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clang-sys-1.8.1\src\support.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clang-sys-1.8.1\src\link.rs E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\build\clang-sys-3c8c7a3f17f3dfe3\out/macros.rs E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\build\clang-sys-3c8c7a3f17f3dfe3\out/common.rs E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\build\clang-sys-3c8c7a3f17f3dfe3\out/dynamic.rs
+
+E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\deps\clang_sys-2db0eab194013312.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clang-sys-1.8.1\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clang-sys-1.8.1\src\support.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clang-sys-1.8.1\src\link.rs E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\build\clang-sys-3c8c7a3f17f3dfe3\out/macros.rs E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\build\clang-sys-3c8c7a3f17f3dfe3\out/common.rs E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\build\clang-sys-3c8c7a3f17f3dfe3\out/dynamic.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clang-sys-1.8.1\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clang-sys-1.8.1\src\support.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clang-sys-1.8.1\src\link.rs:
+E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\build\clang-sys-3c8c7a3f17f3dfe3\out/macros.rs:
+E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\build\clang-sys-3c8c7a3f17f3dfe3\out/common.rs:
+E:\code\QuantTrade\czsc_enhanced\czsc_core\target\debug\build\clang-sys-3c8c7a3f17f3dfe3\out/dynamic.rs:
+
+# env-dep:OUT_DIR=E:\\code\\QuantTrade\\czsc_enhanced\\czsc_core\\target\\debug\\build\\clang-sys-3c8c7a3f17f3dfe3\\out

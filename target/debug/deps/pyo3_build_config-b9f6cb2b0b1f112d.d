@@ -1,0 +1,13 @@
+E:\code\QuantTrade\MosesQuant\target\debug\deps\libpyo3_build_config-b9f6cb2b0b1f112d.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.18.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.18.3\src\errors.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.18.3\src\impl_.rs E:\code\QuantTrade\MosesQuant\target\debug\build\pyo3-build-config-8dd9003a0514f4be\out/pyo3-build-config-file.txt E:\code\QuantTrade\MosesQuant\target\debug\build\pyo3-build-config-8dd9003a0514f4be\out/pyo3-build-config.txt
+
+E:\code\QuantTrade\MosesQuant\target\debug\deps\libpyo3_build_config-b9f6cb2b0b1f112d.rlib: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.18.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.18.3\src\errors.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.18.3\src\impl_.rs E:\code\QuantTrade\MosesQuant\target\debug\build\pyo3-build-config-8dd9003a0514f4be\out/pyo3-build-config-file.txt E:\code\QuantTrade\MosesQuant\target\debug\build\pyo3-build-config-8dd9003a0514f4be\out/pyo3-build-config.txt
+
+E:\code\QuantTrade\MosesQuant\target\debug\deps\pyo3_build_config-b9f6cb2b0b1f112d.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.18.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.18.3\src\errors.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.18.3\src\impl_.rs E:\code\QuantTrade\MosesQuant\target\debug\build\pyo3-build-config-8dd9003a0514f4be\out/pyo3-build-config-file.txt E:\code\QuantTrade\MosesQuant\target\debug\build\pyo3-build-config-8dd9003a0514f4be\out/pyo3-build-config.txt
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.18.3\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.18.3\src\errors.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.18.3\src\impl_.rs:
+E:\code\QuantTrade\MosesQuant\target\debug\build\pyo3-build-config-8dd9003a0514f4be\out/pyo3-build-config-file.txt:
+E:\code\QuantTrade\MosesQuant\target\debug\build\pyo3-build-config-8dd9003a0514f4be\out/pyo3-build-config.txt:
+
+# env-dep:OUT_DIR=E:\\code\\QuantTrade\\MosesQuant\\target\\debug\\build\\pyo3-build-config-8dd9003a0514f4be\\out

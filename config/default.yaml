@@ -1,0 +1,85 @@
+# MosesQuant 配置文件
+# 这是一个示例配置文件，展示了如何配置MosesQuant量化交易框架
+
+# 框架基础设置
+framework:
+  name: "MosesQuant"
+  version: "1.0.0"
+  mode: "Backtest"  # Backtest, PaperTrading, Live
+  timezone: "UTC"
+  base_currency: "USDT"
+  initial_capital: 100000.0
+
+# 数据源配置
+data_sources:
+  - name: "csv_historical"
+    source_type: "Csv"
+    connection:
+      params:
+        file_path: "E:/code/QuantTrade/czsc_enhanced/test/data/BTCUSDT_1m_2023-09.csv"
+    symbols:
+      - "BTCUSDT"
+    enabled: true
+  
+  - name: "binance_live"
+    source_type: "Binance"
+    connection:
+      params:
+        testnet: true
+        # api_key: "your_api_key_here"      # 可选，用于实盘交易
+        # secret_key: "your_secret_key_here" # 可选，用于实盘交易
+    symbols:
+      - "BTCUSDT"
+      - "ETHUSDT"
+    enabled: false  # 设置为true以启用实时数据
+
+# 策略配置
+strategies:
+  - id: "momentum_strategy_1"
+    name: "BTC Momentum Strategy"
+    strategy_type: "Momentum"
+    universe_selector:
+      component_type: "SimpleUniverseSelector"
+      parameters:
+        symbols: ["BTCUSDT"]
+    alpha_model:
+      component_type: "SimpleAlphaModel"
+      parameters: {}
+    portfolio_constructor:
+      component_type: "SimplePortfolioConstructor"
+      parameters: {}
+    parameters:
+      lookback_period: 20
+      signal_threshold: 0.02
+    enabled: true
+
+# 风险管理配置
+risk_management:
+  max_position_size: 0.15        # 最大单个持仓比例 (15%)
+  max_total_position: 0.95       # 最大总持仓比例 (95%)
+  max_drawdown: 0.20            # 最大回撤限制 (20%)
+  stop_loss: 0.05               # 止损比例 (5%)
+  take_profit: 0.10             # 止盈比例 (10%)
+  risk_measures:
+    - VaR:
+        confidence: 0.95
+        horizon: 1
+    - "MaxDrawdown"
+    - Volatility:
+        window: 30
+
+# 执行配置
+execution:
+  frequency: "EveryBar"           # EveryBar, EveryMinute, Hourly, Daily, Custom
+  order_type: "Market"           # Market, Limit, Stop, StopLimit
+  slippage_tolerance: 0.001      # 滑点容忍度 (0.1%)
+  min_order_size: 0.001          # 最小订单大小
+  max_order_size: null           # 最大订单大小 (null = 无限制)
+
+# 日志配置
+logging:
+  level: "Info"                  # Error, Warn, Info, Debug, Trace
+  targets:
+    - "Console"
+    - File: "moses_quant.log"
+  verbose: false

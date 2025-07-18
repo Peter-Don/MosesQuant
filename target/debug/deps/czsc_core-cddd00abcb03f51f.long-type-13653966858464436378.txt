@@ -1,0 +1,1 @@
+tokio::sync::RwLockReadGuard<'_, std::collections::HashMap<gateway_interface::GatewayType, Box<dyn gateway_interface::GatewayFactory>>>
