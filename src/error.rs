@@ -37,6 +37,15 @@ pub enum MosesQuantError {
     
     #[error("Plugin load error: {reason}")]
     PluginLoadError { reason: String },
+
+    #[error("Plugin load error: {message}")]
+    PluginLoad { message: String },
+
+    #[error("Dependency injection error: {message}")]
+    DependencyInjection { message: String },
+
+    #[error("Version management error: {message}")]
+    Version { message: String },
     
     #[error("Plugin dependency not found: {dependency}")]
     DependencyNotFound { dependency: String },
