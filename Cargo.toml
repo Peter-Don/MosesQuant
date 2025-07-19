@@ -1,12 +1,12 @@
 [package]
-name = "czsc_core"
-version = "0.1.0"
+name = "moses_quant"
+version = "2.0.0"
 edition = "2021"
-authors = ["CZSC Enhanced Team"]
-description = "High-performance Rust core engine for CZSC Enhanced quantitative trading system"
+authors = ["MosesQuant Team"]
+description = "High-performance Rust quantitative trading framework with pluggable architecture"
 
 [lib]
-name = "czsc_core"
+name = "moses_quant"
 crate-type = ["cdylib", "rlib"]  # 支持动态库和静态库
 
 [dependencies]
@@ -24,10 +24,12 @@ chrono = { version = "0.4", features = ["serde"] }
 chrono-tz = "0.8"
 
 # 数值计算
+rust_decimal = { version = "1.32", features = ["serde"] }  # 高精度金融计算
 ndarray = "0.15"
 num-traits = "0.2"
 statrs = "0.16"
 rand = "0.8"
+semver = "1.0"  # 语义化版本
 
 # 并行计算
 rayon = "1.7"
@@ -67,6 +69,8 @@ parking_lot = "0.12"  # 高性能锁
 once_cell = "1.17"
 uuid = { version = "1.0", features = ["v4"] }
 num_cpus = "1.15"  # CPU核心数检测
+jsonschema = "0.17"  # JSON Schema验证
+toml = "0.8"  # TOML序列化支持
 
 [features]
 default = ["python"]

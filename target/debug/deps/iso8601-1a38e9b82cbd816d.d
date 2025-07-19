@@ -1,0 +1,11 @@
+E:\code\QuantTrade\MosesQuant\target\debug\deps\libiso8601-1a38e9b82cbd816d.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\display.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\parsers.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\date.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\time.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\datetime.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\duration.rs
+
+E:\code\QuantTrade\MosesQuant\target\debug\deps\iso8601-1a38e9b82cbd816d.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\display.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\parsers.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\date.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\time.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\datetime.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\duration.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\display.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\parsers.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\date.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\time.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\datetime.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iso8601-0.6.3\src\duration.rs:

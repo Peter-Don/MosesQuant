@@ -5,7 +5,7 @@
 use crate::data::{DataManager, CsvDataSource, BinanceConnector, BinanceConfig};
 use crate::types::*;
 use crate::strategy::*;
-use crate::events::EventBus;
+use crate::EventBus;
 use crate::Result;
 use std::sync::Arc;
 use std::collections::HashMap;
